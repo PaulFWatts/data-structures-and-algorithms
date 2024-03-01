@@ -1,4 +1,4 @@
-
+SitePoint: https://www.sitepoint.com/premium/courses/python-data-structures-and-algorithms-the-complete-bootcamp-3205/
 # Welcome To DSA Bootcamp
 
 - The repository consists of all the major files we use throughout the course.
